@@ -1,0 +1,48 @@
+
+
+template container Panel(Examples/SelectGrass)
+{
+	metrics_mode pixels
+	material Examples/SelectGrass
+	horz_align center
+	width 150
+	height 60
+}
+
+template container Panel(Examples/SelectFish)
+{
+	metrics_mode pixels
+	material Examples/SelectFish
+	horz_align center
+	width 150
+	height 60
+}
+
+template container Panel(Examples/SelectMeat)
+{
+	metrics_mode pixels
+	material Examples/SelectMeat
+	horz_align center
+	width 150
+	height 60
+}
+
+template container Panel(Examples/StartHelp)
+{
+	metrics_mode pixels
+	material Examples/StartHelp
+	horz_align center
+	width 614
+	height 463
+}
+
+template container Panel(Examples/MyLogo)
+{
+	metrics_mode pixels
+	material Examples/MyLogo
+	horz_align center
+	width 135
+	height 94
+}
+
+

@@ -1,0 +1,65 @@
+material goose
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.968628 0.968628 0.968628 1
+			diffuse 0.968628 0.968628 0.968628 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material goose_mouse
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.921569 0.282353 0.0862745 1
+			diffuse 0.921569 0.282353 0.0862745 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material legs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.792157 0.341176 0.0431373 1
+			diffuse 0.792157 0.341176 0.0431373 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material Ostrich6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0.98348 0.98348 0.98348 1 56
+		}
+
+	}
+
+}

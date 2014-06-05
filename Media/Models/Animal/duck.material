@@ -1,0 +1,65 @@
+material duck
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.988235 0.815686 0.133333 1
+			diffuse 0.988235 0.815686 0.133333 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material legs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.945098 0.364706 0.0666667 1
+			diffuse 0.945098 0.364706 0.0666667 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material mouth
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.913726 0.45098 0.0392157 1
+			diffuse 0.913726 0.45098 0.0392157 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material Ostrich6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0.98348 0.98348 0.98348 1 56
+		}
+
+	}
+
+}

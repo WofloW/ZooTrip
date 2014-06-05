@@ -1,0 +1,31 @@
+material bone
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.976471 0.819608 0.588235 1
+			diffuse 0.976471 0.819608 0.588235 1
+			specular 0.09 0.09 0.09 1 10
+		}
+
+	}
+
+}
+
+
+
+material meat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.823529 0.466667 0.478431 1
+			diffuse 0.823529 0.466667 0.478431 1
+			specular 0.09 0.09 0.09 1 10
+		}
+
+	}
+
+}

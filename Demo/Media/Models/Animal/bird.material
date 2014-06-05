@@ -1,0 +1,67 @@
+material 21-Default
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.12549 0.12549 0.12549 1
+			diffuse 0.12549 0.12549 0.12549 1
+			specular 0.18 0.18 0.18 1 10
+			cull_hardware none
+			cull_software none
+		}
+
+	}
+
+}
+
+
+
+material bird_body
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.941177 0.941177 0.941177 1
+			diffuse 0.941177 0.941177 0.941177 1
+			specular 0.09 0.09 0.09 1 10
+		}
+
+	}
+
+}
+
+
+
+material bird_eye
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.027451 0.027451 0.027451 1
+			diffuse 0.027451 0.027451 0.027451 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material bird_yellow
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.976471 0.898039 0.368627 1
+			diffuse 0.976471 0.898039 0.368627 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}

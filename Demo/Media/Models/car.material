@@ -1,0 +1,84 @@
+material body
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0.694118 0.878431 1
+			diffuse 0 0.694118 0.878431 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material light
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.968628 0.843137 0.141176 1
+			diffuse 0.968628 0.843137 0.141176 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material light_0
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.921569 0.956863 0.917647 1
+			diffuse 0.921569 0.956863 0.917647 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material Material#380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.941177 0.345098 0.584314 1
+			diffuse 0.941177 0.345098 0.584314 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material window
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.152941 0.513726 0.768628 1
+			diffuse 0.152941 0.513726 0.768628 1
+			specular 0.18 0.18 0.18 1 10
+			cull_hardware none
+			cull_software none
+		}
+
+	}
+
+}

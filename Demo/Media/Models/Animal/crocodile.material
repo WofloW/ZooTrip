@@ -1,0 +1,48 @@
+material black
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material tree2
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.180392 0.564706 0.0901961 1
+			diffuse 0.180392 0.564706 0.0901961 1
+			specular 0.18 0.18 0.18 1 10
+		}
+
+	}
+
+}
+
+
+
+material white
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.960784 0.960784 0.960784 1
+			diffuse 0.960784 0.960784 0.960784 1
+			specular 0.09 0.09 0.09 1 10
+		}
+
+	}
+
+}

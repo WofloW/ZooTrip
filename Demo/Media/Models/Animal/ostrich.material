@@ -1,0 +1,87 @@
+material Ostrich3
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.0941177 0.0941177 0.0509804 1
+			diffuse 0.12549 0.12549 0.12549 1
+			specular 0.0741176 0.0741176 0.0741176 1 22
+
+			texture_unit
+			{
+				texture avestruz_skin.jpg
+			}
+		}
+
+	}
+
+}
+
+
+
+material Ostrich4
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0.364706 0.192157 0.180392 1
+			specular 0.318353 0.318353 0.318353 1 17
+		}
+
+	}
+
+}
+
+
+
+material Ostrich5
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.207 0.164151 0.164151 1
+			diffuse 0.352941 0.164706 0.152941 1
+			specular 0.728039 0.728039 0.728039 1 41
+		}
+
+	}
+
+}
+
+
+
+material Ostrich6
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0 0 0 1
+			specular 0.98348 0.98348 0.98348 1 56
+		}
+
+	}
+
+}
+
+
+
+material Ostrich_pico
+{
+	technique
+	{
+		pass
+		{
+			ambient 0 0 0 1
+			diffuse 0.909804 0.784314 0.423529 1
+			specular 0.572726 0.572726 0.572726 1 64
+		}
+
+	}
+
+}
